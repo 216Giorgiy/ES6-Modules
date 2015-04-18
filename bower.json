@@ -1,0 +1,7 @@
+{
+  "name": "ES6 Modules",
+  "devDependencies": {
+    "traceur": "~0.0.85",
+    "requirejs": "~2.1.16"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ES6_Modules",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.12.0",
+    "grunt": "^0.4.5",
+    "grunt-express": "^1.4.1",
+    "grunt-keepalive": "0.0.1",
+    "grunt-traceur": "^0.5.1",
+    "traceur": "0.0.85"
+  }
+}
